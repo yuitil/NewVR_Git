@@ -1,12 +1,9 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+//test.h
 
 #pragma once
 
 #include "CoreMinimal.h"
 
-/**
- * 
- */
 class VR_API test
 {
 public:
